@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\bin\Debug\ShutDownMyPc.exe.config
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\bin\Debug\ShutDownMyPc.exe
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\bin\Debug\ShutDownMyPc.pdb
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.Form1.resources
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.Properties.Resources.resources
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.exe
+C:\Users\user\Desktop\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.pdb
+C:\Users\user\Desktop\Programowanie\C#\ShutDownMyPc\ShutDownMyPc\bin\Debug\ShutDownMyPc.exe.config
+C:\Users\user\Desktop\Programowanie\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.exe
+C:\Users\user\Desktop\Programowanie\C#\ShutDownMyPc\ShutDownMyPc\obj\Debug\ShutDownMyPc.pdb
